@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Full-stack developer specializing in the MEVN stack, with expertise in Quasar, cloud deployment, and scalable web solutions.
     
-- 💻 Lead Designer and Developer at [Vision2Virtual](https://vision2virtual.com), delivering custom websites and e-commerce platforms tailored to client needs.  
+- 💻 Designer and Developer at [Vision2Virtual](https://vision2virtual.com), delivering custom websites and e-commerce platforms tailored to client needs.  
 
 - 🌟 Passionate about crafting seamless user experiences, secure transaction systems, and innovative solutions that empower businesses.
 
