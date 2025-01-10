@@ -1,14 +1,9 @@
-# 👋 Hi, I’m @AbeJitsu  
-
-- 🧑‍💻 Full-stack developer specializing in the MEVN stack, with expertise in Quasar, cloud deployment, and scalable web solutions.
-    
-- 💻 Designer and Developer at [Vision2Virtual](https://vision2virtual.com), delivering custom websites and e-commerce platforms tailored to client needs.  
-
-- 🌟 Passionate about crafting seamless user experiences, secure transaction systems, and innovative solutions that empower businesses.
-
-- 🥋 Purple belt in Brazilian Jiu-Jitsu, integrating discipline, strategic thinking, and perseverance into every project.  
-
-- 📫 Reach me at: abe.raise@gmail.com  
+👋 Hi, I’m @AbeJitsu
+	•	🧑‍💻 Full-Stack Developer blending creativity and strategy to deliver impactful web solutions. Proficient in the MEVN stack, including Quasar, Vue 3, Express, Node.js, and MongoDB.
+	•	💻 Founder and Creative Director at Vision2Virtual, specializing in custom websites that go beyond cookie-cutter templates to meet unique business needs.
+	•	🌟 Passionate about creating seamless user experiences, dynamic storytelling, and innovative solutions that save time and empower businesses to grow.
+	•	🥋 Purple belt in Brazilian Jiu-Jitsu, bringing discipline, focus, and perseverance from the mat to the keyboard.
+	•	📫 Let’s connect! Reach me at abe.raise@gmail.com
 
 <!---
 AbeJitsu/AbeJitsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
